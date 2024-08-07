@@ -11,6 +11,4 @@ This repository contains all the necessary materials for the course, including:
 - **Assignments**: Statements and starter files for the assigned tasks.
 - **Additional Resources**: Readings, useful links, and relevant documentation.
 
-## Repository Structure
-The repository structure is as follows:
 
